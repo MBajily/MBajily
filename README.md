@@ -1,17 +1,17 @@
 [![MasterHead](https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/python.gif)](https://www.linkedin.com/in/mbajily/)
 <h1 align="center">Hi 👋, I'm Mohammed Elgaily</h1>
-<h3 align="center">A passionate Python Full Stack Developer.</h3>
+<h3 align="center">Python Full Stack Developer</h3>
 <img align="right", alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbajily&label=Profile%20views&color=0e75b6&style=flat" alt="mbajily" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mbajily" target="blank"><img src="https://img.shields.io/twitter/follow/mbajily?logo=twitter&style=for-the-badge" alt="mbajily" /></a> </p>
 
-- 🔭 I’m currently working on [Smart Mailbox Management System](https://github.com/MBajily/Smart-Mailbox)
+- 🔭 I’m currently working on **Smart Mailbox Management System**.
 
 - 📝 I regularly write articles on [My Personal Blog](https://elgaily.com/)
 
-- 💬 Ask me about **Python, Django, Rest API, Backend**
+- 💬 Ask me about **Python, Django, Rest API, Backend**.
 
 - 📫 How to reach me **Mohammed@Elgaily.com**
 
