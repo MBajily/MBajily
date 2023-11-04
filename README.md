@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/mbajily" target="blank"><img src="https://img.shields.io/twitter/follow/mbajily?logo=twitter&style=for-the-badge" alt="mbajily" /></a> </p>
 
-- 🔭 I’m currently working on **Smart Mailbox Management System**.
+- 🔭 I’m currently working on **Smart Mailbox Management System**
 
 - 📝 I regularly write articles on [My Personal Blog](https://elgaily.com/)
 
-- 💬 Ask me about **Python, Django, Rest API, Backend**.
+- 💬 Ask me about **Python, Django, Rest API, Backend**
 
 - 📫 How to reach me **Mohammed@Elgaily.com**
 
