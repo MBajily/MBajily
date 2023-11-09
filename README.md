@@ -1,4 +1,4 @@
-[![MasterHead](https://tudip.com/wp-content/uploads/2020/06/Build_and_publish_your_own_Python_package_to_PyPi_library_website_changed.png)](https://www.linkedin.com/in/mbajily/)
+[![MasterHead](https://buddy.works/tutorials/assets/posts/3-tricks-to-make-your-python-projects-more-sophisticated/cover-3-tricks-to-python-projects.png)](https://www.linkedin.com/in/mbajily/)
 <h1 align="center">Hi 👋, I'm Mohammed Elgaily</h1>
 <h3 align="center">Python Full Stack Developer</h3>
 <img align="right", alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
