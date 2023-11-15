@@ -1,4 +1,3 @@
-[![MasterHead](https://machinelearningmastery.ru/img/0-659554-482304.png)](https://www.linkedin.com/in/mbajily/)
 <h1 align="center">Hi 👋, I'm Mohammed Elgaily</h1>
 <h3 align="center">Python Full Stack Developer</h3>
 <img align="right", alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
