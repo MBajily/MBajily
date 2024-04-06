@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Python, Django, Rest API, Backend**
 
-- 📫 How to reach me **Mohammed@Elgaily.com**
+- 📫 How to reach me **mbajily@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1XmzdazUYbp3RnnQEJhfPNJwQcNwH8qzl/view?usp=sharing)
 
