@@ -19,10 +19,10 @@ Building scalable systems, robust APIs, and cloud-native architectures on AWS.
 
 I'm a backend engineer who thrives on turning complex business requirements into clean, maintainable systems. My day-to-day revolves around designing APIs, architecting services, and making sure things don't break at 3 AM.
 
-- Working on **Smart Mailbox Management System** — an end-to-end mail operations platform
+- Working on **Smart Mailbox Management System**, an end-to-end mail operations platform
 - Built multi-tenant SaaS platforms handling **payments, invoicing, messaging, and customer management**
 - Designed and shipped **RESTful APIs** serving production workloads with Django REST Framework
-- **AWS Solutions Architect** — designing and deploying production workloads across EC2, Lambda, S3, RDS, ECS, CloudFront, API Gateway, SQS, SNS, and more
+- **AWS Solutions Architect**, designing and deploying production workloads across EC2, Lambda, S3, RDS, ECS, CloudFront, API Gateway, SQS, SNS, and more
 - Experienced with **cloud-native architectures** across AWS and Azure with containerized microservices
 - Writing about software engineering and backend development at **[elgaily.com](https://elgaily.com)**
 
@@ -127,30 +127,30 @@ I'm a backend engineer who thrives on turning complex business requirements into
 A multi-tenant SaaS portal for managing properties, subscriptions, and financial operations with full Qoyod ERP integration.
 
 - **252+ REST API endpoints** (Django REST Framework) with OpenAPI docs via drf-spectacular
-- **Subscription billing** — automated monthly invoicing, partial-period prorating, multi-invoice payment application, receipt generation
-- **Qoyod ERP integration** — bidirectional sync for contacts, invoices, and payment receipts
-- **WhatsApp Business API** — payment reminders, confirmations, bulk messaging with template management
-- **Event-driven sync** — transactional outbox pattern (SNS/SQS) for cross-app data synchronization
-- **Lambda automation** — daily invoicing, offer expiry, health monitoring, payment processing via EventBridge
-- **Bilingual** — full Arabic/English with RTL support
-- **Infrastructure** — ECS Fargate, RDS, ElastiCache, S3, Lambda, CloudWatch, Terraform IaC, GitHub Actions CI/CD
+- **Subscription billing** automated monthly invoicing, partial-period prorating, multi-invoice payment application, receipt generation
+- **Qoyod ERP integration** bidirectional sync for contacts, invoices, and payment receipts
+- **WhatsApp Business API** payment reminders, confirmations, bulk messaging with template management
+- **Event-driven sync** transactional outbox pattern (SNS/SQS) for cross-app data synchronization
+- **Lambda automation** daily invoicing, offer expiry, health monitoring, payment processing via EventBridge
+- **Bilingual** full Arabic/English with RTL support
+- **Infrastructure** ECS Fargate, RDS, ElastiCache, S3, Lambda, CloudWatch, Terraform IaC, GitHub Actions CI/CD
 
 ### Rakaeiz Cleaning App — Building Cleaning Operations Platform
 
 A full-stack operations app for managing building cleaning visits, integrated with the Portal via event-driven architecture.
 
-- **Mobile-first frontend** — HTMX + Alpine.js + Tailwind CSS with PWA support
-- **Visit lifecycle** — recurring schedules (weekly/monthly/quarterly), priority ordering, automatic generation, video-required completion
-- **Real-time features** — SSE notifications, building-based staff chat (text, images, voice notes, reactions), Kanban board with weekday columns
-- **Video pipeline** — direct S3 upload with CloudFront signed URL delivery, iOS-compatible record/gallery options
-- **Event-driven sync** — SQS consumer for Portal data + periodic reconciliation with drift detection and correction
-- **WhatsApp integration** — customer reminders via Portal API from the building board
-- **Role-based access** — Admin (full panel + board), Cleaner (assigned regions), Customer (own buildings)
-- **Infrastructure** — ECS Fargate, RDS Proxy, ElastiCache, S3, CloudFront, SQS, WAF, Terraform IaC
+- **Mobile-first frontend** HTMX + Alpine.js + Tailwind CSS with PWA support
+- **Visit lifecycle** recurring schedules (weekly/monthly/quarterly), priority ordering, automatic generation, video-required completion
+- **Real-time features** SSE notifications, building-based staff chat (text, images, voice notes, reactions), Kanban board with weekday columns
+- **Video pipeline** direct S3 upload with CloudFront signed URL delivery, iOS-compatible record/gallery options
+- **Event-driven sync** SQS consumer for Portal data + periodic reconciliation with drift detection and correction
+- **WhatsApp integration** customer reminders via Portal API from the building board
+- **Role-based access** Admin (full panel + board), Cleaner (assigned regions), Customer (own buildings)
+- **Infrastructure** ECS Fargate, RDS Proxy, ElastiCache, S3, CloudFront, SQS, WAF, Terraform IaC
 
 ---
 
-Both systems follow a **service layer architecture** — business logic lives in dedicated service classes, keeping views thin and ensuring consistency between template views and API endpoints.
+Both systems follow a **service layer architecture**, business logic lives in dedicated service classes, keeping views thin and ensuring consistency between template views and API endpoints.
 
 ---
 
@@ -177,7 +177,7 @@ Both systems follow a **service layer architecture** — business logic lives in
 
 <!-- BLOG-POST-LIST:START -->
 <!-- Add github action: blog-post-workflow to auto-update -->
-- Coming soon — check [elgaily.com](https://elgaily.com) for latest posts
+- Coming soon... check [elgaily.com](https://elgaily.com) for latest posts
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -188,7 +188,7 @@ Both systems follow a **service layer architecture** — business logic lives in
 
 I'm always open to discussing **backend architecture**, **API design**, or interesting **Python projects**.
 
-If you have an idea or just want to talk engineering — reach out.
+If you have an idea or just want to talk engineering, reach out.
 
 [![Blog](https://img.shields.io/badge/Read_My_Blog-elgaily.com-000?style=for-the-badge)](https://elgaily.com)
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/mbajily)
