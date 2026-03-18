@@ -6,9 +6,7 @@
 
 Building scalable systems, robust APIs, and cloud-native architectures on AWS.
 
-[![Blog](https://img.shields.io/badge/elgaily.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://elgaily.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mbajily)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mbajily)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mbajily@gmail.com)
 
 </div>
@@ -24,7 +22,6 @@ I'm a backend engineer who thrives on turning complex business requirements into
 - Designed and shipped **RESTful APIs** serving production workloads with Django REST Framework
 - **AWS Solutions Architect**, designing and deploying production workloads across EC2, Lambda, S3, RDS, ECS, CloudFront, API Gateway, SQS, SNS, and more
 - Experienced with **cloud-native architectures** across AWS and Azure with containerized microservices
-- Writing about software engineering and backend development at **[elgaily.com](https://elgaily.com)**
 
 ---
 
@@ -172,15 +169,6 @@ Both systems follow a **service layer architecture**, business logic lives in de
 
 ---
 
-## Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- Add github action: blog-post-workflow to auto-update -->
-- Coming soon... check [elgaily.com](https://elgaily.com) for latest posts
-<!-- BLOG-POST-LIST:END -->
-
----
-
 <div align="center">
 
 ### Let's Connect
@@ -189,7 +177,6 @@ I'm always open to discussing **backend architecture**, **API design**, or inter
 
 If you have an idea or just want to talk engineering, reach out.
 
-[![Blog](https://img.shields.io/badge/Read_My_Blog-elgaily.com-000?style=for-the-badge)](https://elgaily.com)
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/mbajily)
 [![Email](https://img.shields.io/badge/Say_Hello-Email-D14836?style=for-the-badge)](mailto:mbajily@gmail.com)
 
