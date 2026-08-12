@@ -6,6 +6,7 @@
 
 Building scalable systems, robust APIs, and cloud-native architectures on AWS.
 
+[![AWS Certified](https://img.shields.io/badge/5x_AWS_Certified-FF9900?style=for-the-badge&logoColor=white)](#aws-certifications)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mbajily)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mbajily@gmail.com)
 
@@ -20,7 +21,10 @@ I'm a backend engineer who thrives on turning complex business requirements into
 - Working on **Smart Mailbox Management System**, an end-to-end mail operations platform
 - Built multi-tenant SaaS platforms handling **payments, invoicing, messaging, and customer management**
 - Designed and shipped **RESTful APIs** serving production workloads with Django REST Framework
+- **5x AWS Certified** Solutions Architect, Developer, Machine Learning Engineer, AI Practitioner, and Cloud Practitioner
 - **AWS Solutions Architect**, designing and deploying production workloads across EC2, Lambda, S3, RDS, ECS, CloudFront, API Gateway, SQS, SNS, and more
+- Building **AI/ML workloads** on AWS with Amazon Bedrock, RAG architectures, and SageMaker AI for model deployment and monitoring
+- Designing **data pipelines** with Glue, Athena, Kinesis, and Redshift for ETL/ELT and analytics workloads
 - Experienced with **cloud-native architectures** across AWS and Azure with containerized microservices
 
 ---
@@ -31,11 +35,13 @@ I'm a backend engineer who thrives on turning complex business requirements into
 <tr>
 <td valign="top" width="25%">
 
-### Backend
+### Backend & APIs
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -43,48 +49,75 @@ I'm a backend engineer who thrives on turning complex business requirements into
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![SSE](https://img.shields.io/badge/Server--Sent_Events-6E4C9E?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 </td>
 <td valign="top" width="25%">
 
-### AWS Services
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
-![ECS](https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white)
-![ElastiCache](https://img.shields.io/badge/ElastiCache-4053D6?style=flat-square&logo=amazonelasticache&logoColor=white)
-![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=amazoncloudwatch&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
-![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white)
-![SQS](https://img.shields.io/badge/SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white)
-![SNS](https://img.shields.io/badge/SNS-FF4F8B?style=flat-square&logo=amazonsimpleemailservice&logoColor=white)
-![EventBridge](https://img.shields.io/badge/EventBridge-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
-![ECR](https://img.shields.io/badge/ECR-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![WAF](https://img.shields.io/badge/WAF-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![ALB](https://img.shields.io/badge/ALB-8C4FFF?style=flat-square&logo=awselasticloadbalancing&logoColor=white)
-![Route 53](https://img.shields.io/badge/Route_53-8C4FFF?style=flat-square&logo=amazonroute53&logoColor=white)
-![Secrets Manager](https://img.shields.io/badge/Secrets_Manager-DD344C?style=flat-square&logo=awssecretsmanager&logoColor=white)
+### AWS | Compute & Network
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logoColor=white)
+![ECS Fargate](https://img.shields.io/badge/ECS_Fargate-FF9900?style=flat-square&logoColor=white)
+![ECR](https://img.shields.io/badge/ECR-FF9900?style=flat-square&logoColor=white)
+![Auto Scaling](https://img.shields.io/badge/Auto_Scaling-FF9900?style=flat-square&logoColor=white)
+![ALB](https://img.shields.io/badge/ALB-8C4FFF?style=flat-square&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-8C4FFF?style=flat-square&logoColor=white)
+![Route 53](https://img.shields.io/badge/Route_53-8C4FFF?style=flat-square&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-E7157B?style=flat-square&logoColor=white)
+![WAF](https://img.shields.io/badge/WAF-DD344C?style=flat-square&logoColor=white)
+
+### AWS | Data & Storage
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logoColor=white)
+![S3 Intelligent-Tiering](https://img.shields.io/badge/S3_Intelligent--Tiering-569A31?style=flat-square&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS_PostgreSQL-527FFF?style=flat-square&logoColor=white)
+![RDS Proxy](https://img.shields.io/badge/RDS_Proxy-527FFF?style=flat-square&logoColor=white)
+![Aurora](https://img.shields.io/badge/Aurora-527FFF?style=flat-square&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-527FFF?style=flat-square&logoColor=white)
+![ElastiCache](https://img.shields.io/badge/ElastiCache-527FFF?style=flat-square&logoColor=white)
 
 </td>
 <td valign="top" width="25%">
 
-### DevOps & Tools
+### AWS | Integration & Serverless
+![SQS](https://img.shields.io/badge/SQS-E7157B?style=flat-square&logoColor=white)
+![SNS](https://img.shields.io/badge/SNS-E7157B?style=flat-square&logoColor=white)
+![EventBridge](https://img.shields.io/badge/EventBridge-E7157B?style=flat-square&logoColor=white)
+![Step Functions](https://img.shields.io/badge/Step_Functions-E7157B?style=flat-square&logoColor=white)
+![SES](https://img.shields.io/badge/SES-E7157B?style=flat-square&logoColor=white)
+
+### AWS | Security & Ops
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logoColor=white)
+![KMS](https://img.shields.io/badge/KMS-DD344C?style=flat-square&logoColor=white)
+![Secrets Manager](https://img.shields.io/badge/Secrets_Manager-DD344C?style=flat-square&logoColor=white)
+![Systems Manager](https://img.shields.io/badge/Systems_Manager-E7157B?style=flat-square&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-E7157B?style=flat-square&logoColor=white)
+![CloudTrail](https://img.shields.io/badge/CloudTrail-E7157B?style=flat-square&logoColor=white)
+![X-Ray](https://img.shields.io/badge/X--Ray-E7157B?style=flat-square&logoColor=white)
+![AWS Organizations](https://img.shields.io/badge/Organizations-E7157B?style=flat-square&logoColor=white)
+![Well-Architected](https://img.shields.io/badge/Well--Architected-232F3E?style=flat-square&logoColor=white)
+![Cost Optimization](https://img.shields.io/badge/Cost_Optimization-232F3E?style=flat-square&logoColor=white)
+
+</td>
+<td valign="top" width="25%">
+
+### IaC & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-E7157B?style=flat-square&logoColor=white)
+![AWS CDK](https://img.shields.io/badge/AWS_CDK-232F3E?style=flat-square&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-</td>
-<td valign="top" width="25%">
-
-### Frontend & Other
+### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -95,7 +128,60 @@ I'm a backend engineer who thrives on turning complex business requirements into
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="25%">
+
+### AI & Machine Learning
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-01A88D?style=flat-square&logoColor=white)
+![SageMaker AI](https://img.shields.io/badge/SageMaker_AI-01A88D?style=flat-square&logoColor=white)
+![Bedrock Guardrails](https://img.shields.io/badge/Bedrock_Guardrails-01A88D?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-01A88D?style=flat-square&logoColor=white)
+![Vector Stores](https://img.shields.io/badge/Vector_Stores-01A88D?style=flat-square&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-01A88D?style=flat-square&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-01A88D?style=flat-square&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-01A88D?style=flat-square&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-01A88D?style=flat-square&logoColor=white)
+
+</td>
+<td valign="top" width="25%">
+
+### Data Engineering
+![AWS Glue](https://img.shields.io/badge/AWS_Glue-8C4FFF?style=flat-square&logoColor=white)
+![Athena](https://img.shields.io/badge/Athena-8C4FFF?style=flat-square&logoColor=white)
+![Kinesis](https://img.shields.io/badge/Kinesis-8C4FFF?style=flat-square&logoColor=white)
+![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logoColor=white)
+![Lake Formation](https://img.shields.io/badge/Lake_Formation-8C4FFF?style=flat-square&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=flat-square&logo=apacheparquet&logoColor=white)
+![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-4479A1?style=flat-square)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-4479A1?style=flat-square)
+
+</td>
+<td valign="top" width="25%">
+
+### Architecture
+![Microservices](https://img.shields.io/badge/Microservices-232F3E?style=flat-square)
+![Event-Driven](https://img.shields.io/badge/Event--Driven-232F3E?style=flat-square)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-232F3E?style=flat-square)
+![High Availability](https://img.shields.io/badge/High_Availability-232F3E?style=flat-square)
+![Multi-AZ](https://img.shields.io/badge/Multi--AZ-232F3E?style=flat-square)
+![Disaster Recovery](https://img.shields.io/badge/Disaster_Recovery-232F3E?style=flat-square)
+![System Design](https://img.shields.io/badge/System_Design-232F3E?style=flat-square)
+![RBAC](https://img.shields.io/badge/RBAC-232F3E?style=flat-square)
+
+</td>
+<td valign="top" width="25%">
+
+### Tools
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile%2FScrum-0052CC?style=flat-square)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
 </tr>
@@ -107,11 +193,30 @@ I'm a backend engineer who thrives on turning complex business requirements into
 
 <div align="center">
 
-<img src="https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="130" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://images.credly.com/size/150x150/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="130" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://images.credly.com/size/150x150/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="130" />
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="110" /><br/>
+<sub><b>Cloud Practitioner</b><br/>CLF-C02</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://images.credly.com/size/150x150/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" width="110" /><br/>
+<sub><b>AI Practitioner</b><br/>AIF-C01</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://images.credly.com/size/150x150/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="110" /><br/>
+<sub><b>Solutions Architect</b><br/>SAA-C03</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://images.credly.com/size/150x150/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="110" /><br/>
+<sub><b>Developer</b><br/>DVA-C02</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://images.credly.com/size/150x150/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" alt="AWS Certified Machine Learning Engineer – Associate" width="110" /><br/>
+<sub><b>ML Engineer</b><br/>MLA-C01</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -119,7 +224,7 @@ I'm a backend engineer who thrives on turning complex business requirements into
 
 ## Current Projects
 
-### Rakaeiz Portal — Property Management & Subscription Billing Platform
+### Rakaeiz Portal | Property Management & Subscription Billing Platform
 
 A multi-tenant SaaS portal for managing properties, subscriptions, and financial operations with full Qoyod ERP integration.
 
@@ -132,7 +237,7 @@ A multi-tenant SaaS portal for managing properties, subscriptions, and financial
 - **Bilingual** full Arabic/English with RTL support
 - **Infrastructure** ECS Fargate, RDS, ElastiCache, S3, Lambda, CloudWatch, Terraform IaC, GitHub Actions CI/CD
 
-### Rakaeiz Cleaning App — Building Cleaning Operations Platform
+### Rakaeiz Cleaning App | Building Cleaning Operations Platform
 
 A full-stack operations app for managing building cleaning visits, integrated with the Portal via event-driven architecture.
 
@@ -173,7 +278,7 @@ Both systems follow a **service layer architecture**, business logic lives in de
 
 ### Let's Connect
 
-I'm always open to discussing **backend architecture**, **API design**, or interesting **Python projects**.
+I'm always open to discussing **backend architecture**, **API design**, **AWS cloud design**, or interesting **Python projects**.
 
 If you have an idea or just want to talk engineering, reach out.
 
