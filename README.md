@@ -29,6 +29,24 @@ I'm a backend engineer who thrives on turning complex business requirements into
 
 ---
 
+## AWS Certifications
+
+<div align="center">
+
+<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="155" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" width="155" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="155" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="155" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://images.credly.com/size/340x340/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" alt="AWS Certified Machine Learning Engineer – Associate" width="155" />
+
+</div>
+
+---
+
 ## Tech Stack
 
 <table>
@@ -186,39 +204,6 @@ I'm a backend engineer who thrives on turning complex business requirements into
 </td>
 </tr>
 </table>
-
----
-
-## AWS Certifications
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="110" /><br/>
-<sub><b>Cloud Practitioner</b><br/>CLF-C02</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://images.credly.com/size/150x150/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" width="110" /><br/>
-<sub><b>AI Practitioner</b><br/>AIF-C01</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://images.credly.com/size/150x150/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="110" /><br/>
-<sub><b>Solutions Architect</b><br/>SAA-C03</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://images.credly.com/size/150x150/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="110" /><br/>
-<sub><b>Developer</b><br/>DVA-C02</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://images.credly.com/size/150x150/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" alt="AWS Certified Machine Learning Engineer – Associate" width="110" /><br/>
-<sub><b>ML Engineer</b><br/>MLA-C01</sub>
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
